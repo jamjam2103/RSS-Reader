@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Build files
+dist/
+out/
+.vite/
+.vite-cache/
+
+# Editor files
+.idea/
+.vscode/
+*.sublime-workspace
+
