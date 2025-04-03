@@ -51,3 +51,8 @@ npm run dev
 - Add/Delete RSS feeds
 - Read articles from the feeds
 - Preview the RSS feed
+
+## Contributers
+
+- Anay Samarth (22WU0101011)
+- Harshit Chatterjee (22WU0101035)
